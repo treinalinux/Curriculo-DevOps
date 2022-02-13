@@ -7,6 +7,54 @@
 ### O que é DevOps?
 
 
+#### Currículo com as skills mais pedida entre 2021 e 2022:
+
+##### Linux
+
+- Ubuntu
+- Red Hat
+
+##### Versionamento de código
+
+- Git
+- GitHub
+
+##### Iac
+- TerraForm
+
+##### Gerência de configuração
+- Ansible
+- Puppet
+- Chef
+
+##### Gerenciamento de tarefas
+- Rundeck 
+
+##### CI/CD
+- Gitlab
+- Jenkins
+
+##### Monitoramento
+- Zabbix
+- Grafana
+- Prometheus
+
+##### Container
+- Docker
+- Kubernetes
+
+##### Logs
+- Graylog
+
+##### Filas
+- RabbitMQ
+
+
+##### Cloud
+
+- AWS
+- Azure
+
 
 **Fontes:**
 
