@@ -7,7 +7,57 @@
 ### O que é DevOps?
 
 
-#### Currículo com as skills mais pedida entre 2021 e 2022:
+## Currículo com as skills mais pedida entre 2021 e 2022:
+
+### Desenvolvedor
+
+#### Backend
+
+- [Java]()
+- [Node]()
+- [Python]()
+- [Ruby]()
+
+##### Frameworks Python
+
+- [Django]()
+- [Flask]()
+- [FastAPI]()
+        Ruby
+##### Frameworks Ruby
+
+- [Ruby on Rails]()
+- [Ruby Sinatra]()
+
+#### Frontend
+
+- [HTML]()
+- [CSS]()
+- [JavaScript]()
+
+##### Frameworks JavaScript
+
+- [Angular]()
+- [React]()
+- [Vue]()
+
+
+### Banco de Dados
+
+- [Modelagem]()
+
+#### SQL
+
+- [PostgreSQL]()
+- [MySQL]()
+- [MariaDB]()
+- [Oracle]()
+
+#### NoSQL
+
+- [MongoDB]()
+
+### Infraestrutura
 
 ##### Linux
 
