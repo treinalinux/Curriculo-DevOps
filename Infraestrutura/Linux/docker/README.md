@@ -1,5 +1,14 @@
 # Docker
 
+
+## Instalando o Docker 
+
+```
+# curl -fsSL https://get.docker.com/ | bash
+# docker version
+# docker container ls
+```
+
 ## Comandos
 
 ```
