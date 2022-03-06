@@ -37,7 +37,7 @@
 
 ##### Frameworks JavaScript
 
-- [Angular]()
+- [Angular](https://github.com/treinalinux/Curriculo-DevOps/blob/main/Desenvolvedor/Frontend/JavaScript/Angular/README.md)
 - [React]()
 - [Vue]()
 
